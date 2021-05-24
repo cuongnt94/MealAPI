@@ -1,5 +1,7 @@
 
-
+//
+<h1>Please read the README.PDF
+//
 For this RESTful API  project, I use SpringBoot which is designed in MVC.
 Port number: 8081
 Model: I create a class called Meal and 3 of its children are Breakfast, Lunch and Dinner
